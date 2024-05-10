@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Roberto F Rodrigues </sub>](https://github.com/robertofr) 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/11331560?v=4><br><sub>Roberto F Rodrigues </sub>](https://github.com/robertofr) | 
 | :---: | :---: |
